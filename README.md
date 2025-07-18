@@ -41,16 +41,6 @@ This project is a simple, interactive traffic signal simulation built entirely i
 
 ---
 
-## 📸 Screenshots
-
-| Main Menu | Simulation Cycle | Pedestrian Request |
-|------------|-------------------|-----------------------|
-| ![Menu](images/menu.png) | ![Cycle](images/cycle.png) | ![Pedestrian](images/pedestrian.png) |
-
-> _You can replace the image paths with your actual screenshot locations._
-
----
-
 ## 📂 Files Included
 - `mips5.asm` – Full MIPS assembly code.
 - `Traffic_Signal_Simulator_Team_P.pdf` – Project summary slides.
